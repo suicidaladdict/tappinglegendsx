@@ -1,5 +1,5 @@
-# tappinglegendsx
+# tapping legends x
 unpatched tapping legends x exploit (autoclicker, autorebirth, etc)
 
 # loadstring
-coming soon
+loadstring(game:HttpGet("https://raw.githubusercontent.com/suicidaladdict/tappinglegendsx/main/exploit.lua"))()
